@@ -1,0 +1,4 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/muit/nethwork_client.git
+	branch = master
