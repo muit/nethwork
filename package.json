@@ -1,0 +1,30 @@
+{
+  "name": "nethwork",
+  "version": "0.0.1",
+  "description": "WebSockets based Game Networking API.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/muit/nethwork"
+  },
+  "homepage": "https://github.com/muit/nethwork",
+  "scripts": {
+    "test": "node_modules/.bin/mocha"
+  },
+  "keywords": [
+    "server",
+    "http",
+    "https",
+    "api",
+    "simple",
+    "web"
+  ],
+  "author": "Muit <miguel_3c@hotmail.com> (https://github.com/muit)",
+  "devDependencies": {
+    "mocha":     "2.0.1",
+    "expect.js": "0.3.1"
+  },
+  "dependencies": {
+    "socket.io": "1.2.1"
+  }
+}
