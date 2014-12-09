@@ -1,6 +1,6 @@
 {
   "name": "nethwork",
-  "version": "0.1.03",
+  "version": "0.1.05",
   "description": "WebSockets based Game Networking API.",
   "license": "MIT",
   "repository": {
