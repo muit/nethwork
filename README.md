@@ -25,9 +25,9 @@ If unsure, create an [issue](https://github.com/muit/nethwork/issues) to discuss
 
 Please ensure that:
 
-* the files in `dist/` are _unmodified_.
+* Utyl and the client API are submodules, use the correct repos.
 * the features you add are well documented with jsdoc comments if applicable.
-* the code is indented with 4 space characters.
+* the code is indented with 2 space characters.
 
 ## License
 
