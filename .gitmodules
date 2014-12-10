@@ -2,3 +2,6 @@
 	path = client
 	url = https://github.com/muit/nethwork_client.git
 	branch = master
+[submodule "lib/utyl"]
+	path = lib/utyl
+	url = https://github.com/muit/utyl.git

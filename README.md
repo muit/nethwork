@@ -2,23 +2,32 @@
 
 Nethwork is a client/server high-level game networking API, designed to make easier the task of developing game or app websockets networking arquitectures.
 
-## Installing
+### Installing
 
 ```
 npm install nethwork
 ```
 
 
-## Where is the client code?
+### Where is the client code?
 
 The Client side of Nethwork is in the file "nethwork_client.js" at "./node_modules/nethwork/client".
 
+### Pull Requests
 
-## Issues
+If you are contributing a bug-fix or a very minor addition, feel free to
+do a pull request on the master branch.
 
-Let me know your suggestions and bugs found to improve Nethwork [here!](https://github.com/muit/nethwork/issues)!
+If it is something else create a new (or existing) feature branch (eg: `feature/MY_FEAT`)
+and issue a pull request on that.
 
-[https://github.com/muit/nethwork/issues](https://github.com/muit/nethwork/issues)
+If unsure, create an [issue](https://github.com/muit/nethwork/issues) to discuss.
+
+Please ensure that:
+
+* the files in `dist/` are _unmodified_.
+* the features you add are well documented with jsdoc comments if applicable.
+* the code is indented with 4 space characters.
 
 ## License
 
